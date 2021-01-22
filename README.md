@@ -5,7 +5,7 @@ Implementação de alguns dos tipos mais conhecidos de ordenação.
 
 Como o Bubble, Insertion, Merge, Quick, Selection e o Shell Sort.
 
-
+<br>
 
 Implementation of some of the most well-known types of sorting.
 
